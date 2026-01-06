@@ -55,3 +55,35 @@ nav .menu a{
     border-radius: 5px;
     border: none;
 }
+#banner{
+    margin: 53px 41px 0 250px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#banner .banner-content{
+    width: 638px;
+}
+#banner .banner-content h2 {
+font-size: 49px;
+font-weight: 600px;
+color: #474747;
+margin-bottom: 5.45px;
+}
+#banner .banner-content h1 {
+    font-size: 92.7px;
+    font-weight: bold;
+    color: #181818;
+    margin-bottom: 21.8px;
+}
+#banner .banner-content p{
+    font-size: 19.63px;
+    color: #757575;
+    line-height: 32.7px;
+    margin-bottom: 32.7px;
+}
+
+#banner .banner-image img{
+    max-width: 615px;
+    vertical-align: middle;
+}
